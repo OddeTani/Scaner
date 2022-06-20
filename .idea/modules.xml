@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Finger.iml" filepath="$PROJECT_DIR$/.idea/modules/Finger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Finger.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Finger.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Finger.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Finger.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Finger.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Finger.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Finger.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Finger.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
